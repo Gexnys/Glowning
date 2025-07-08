@@ -1,0 +1,3 @@
+- This is a beta version. 
+- Fixes will be released in future updates. 
+- Anyone can use and customize it.
